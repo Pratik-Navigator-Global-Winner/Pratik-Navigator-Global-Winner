@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Pratik 👋
 
-<!--
-**Pratik-Navigator-Global-Winner/Pratik-Navigator-Global-Winner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **2026 NASA Space Apps Challenge Navigator**
 
-Here are some ideas to get you started:
+🏆 **2025 Galactic Impact Global Winner | Team Lead, Astro Sweepers**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I previously led **Astro Sweepers**, a NASA Space Apps Challenge project focused on the sustainable commercialization of Low Earth Orbit.
+
+## 💡 Areas I can help guide
+
+- Business strategy & commercialization
+- Project structure and problem framing
+- NASA and open-data integration
+- Impact and real-world relevance
+- Storytelling, pitching & presentation
+
+## 🌍 During Space Apps 2026
+
+I'm here to help participants navigate the challenge, think through problems, identify useful resources, and strengthen how they communicate their ideas.
+
+My role is to **guide you toward the answer while keeping the solution yours.**
+
+🔗 [Explore Astro Sweepers](https://astro-sweepers.vercel.app/)
