@@ -6,7 +6,7 @@
 
 I previously led **Astro Sweepers**, a NASA Space Apps Challenge project focused on the sustainable commercialization of Low Earth Orbit.
 
-## 💡 Areas I can help guide
+## 💡 Areas I can help you navigate
 
 - Business strategy & commercialization
 - Project structure and problem framing
